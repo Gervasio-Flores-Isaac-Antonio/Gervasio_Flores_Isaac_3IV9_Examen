@@ -1,5 +1,4 @@
 
-package javaappwhiles;
 
 public class Pokemon {
 

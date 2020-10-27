@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import Pokemon.java;
+
 
 public class Gervasio_Flores_Isaac_3IV9_Examen_1 {
 
