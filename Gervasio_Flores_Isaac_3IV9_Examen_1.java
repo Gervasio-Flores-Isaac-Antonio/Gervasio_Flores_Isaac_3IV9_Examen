@@ -21,7 +21,7 @@ public class Gervasio_Flores_Isaac_3IV9_Examen_1 {
             
 
             String menu1;
-            int valorDadoTemp; //, valorDado1,valorDado2 = 0;
+            int valorDadoTemp; 
 
             do {
                 
@@ -35,7 +35,7 @@ public class Gervasio_Flores_Isaac_3IV9_Examen_1 {
 
                 valorDadoTemp = (int) Math.floor(Math.random() * 3 + 1);
                 String valorDado2 = Integer.toString(valorDadoTemp);
-                //System.out.println("valorDado1 : " + valorDado1 + "|  valorDado2 : " + valorDado2);        
+                    
 
                 int[] datosPok1 = new int[4];
                 String[] nomPok1 = new String[3];
@@ -162,8 +162,6 @@ public class Gervasio_Flores_Isaac_3IV9_Examen_1 {
                         System.out.println(" E M P I E Z A   P E L E A ...");
                         System.out.println(" ");
                         System.out.println(" ");
-//                        int pokempieza1T = (int) Math.floor(Math.random() * 3 + 1);
-//                        System.out.println("Empiza ataque : " + nomPok1[pokempieza1T]);
                         
                         
                         boolean pokCansado = true;
